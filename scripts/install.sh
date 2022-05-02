@@ -2,7 +2,7 @@
 
 echo -e "\e[36m▼ソフトウェアをアップデート・インストールします\e[m"
 sudo apt-get update
-sudo apt-get -y install unzip default-jre
+sudo apt-get -y install unzip default-jre default-jdk
 
 echo -e "\e[36m▼mikatypeディレクトリを作成します\e[m"
 mkdir -pv ${HOME}/mikatype
