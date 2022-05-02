@@ -1,0 +1,2 @@
+# chromebook-mikatype
+ChromebookのLinux開発環境に美佳のタイプトレーナ（MIKATYPE）をインストールするスクリプト
