@@ -2,7 +2,7 @@
 
 echo -e "\e[36m▼ソフトウェアをアップデート・インストールします\e[m"
 sudo apt-get update
-sudo apt-get -y install curl unzip default-jre
+sudo apt-get -y install unzip default-jre
 
 echo -e "\e[36m▼mikatypeディレクトリを作成します\e[m"
 mkdir -pv ${HOME}/mikatype
@@ -22,4 +22,3 @@ mkdir -pv ${HOME}/.local/share/applications/
 echo -e "[Desktop Entry]\nName=MIKATYPE\nExec=java -cp ${HOME}/mikatype MIKATYPE\nType=Application" > ${HOME}/.local/share/applications/mikatype.desktop
 
 echo "スクリプト終了"
-
