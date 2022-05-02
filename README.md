@@ -10,7 +10,7 @@ ChromebookのLinux開発環境に美佳のタイプトレーナ（MIKATYPE）を
 
 ## セットアップ方法
 
-1. [公式ヘルプ](https://support.google.com/chromebook/answer/9145439?hl=ja)に従い、Linux（ベータ版）をセットアップする。  
+1. [公式ヘルプ](https://support.google.com/chromebook/answer/9145439?hl=ja)に従い、Linux開発環境をセットアップする。  
 2. Chromebook上にセットアップされたLinuxターミナルにて以下のコマンドを実行する。  
 
 ``` sh
