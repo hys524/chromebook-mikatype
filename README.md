@@ -20,5 +20,14 @@ curl -s https://raw.githubusercontent.com/hys524/chromebook-mikatype/main/script
 ※ChromeOS/Crostiniの仕様変更に伴い、予期せず動作しなくなる可能性があります。
 
 
+## 実行結果
+▼アイコン追加  
+![1](https://user-images.githubusercontent.com/22715799/166203087-786d465b-1e32-4425-8884-a836ec0b3e76.png)  
+▼MIKATYPE起動  
+![2](https://user-images.githubusercontent.com/22715799/166203103-14936ab7-a3c7-4cbf-8e1b-08f3b2ef0c49.png)  
+
+
 ## ライセンス
 このスクリプト・リポジトリは [MIT ライセンス](./LICENSE) の下で公開されています
+
+
