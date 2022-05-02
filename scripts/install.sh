@@ -21,4 +21,4 @@ echo -e "\e[36m▼デスクトップファイルを作成します\e[m"
 mkdir -pv ${HOME}/.local/share/applications/
 echo -e "[Desktop Entry]\nName=MIKATYPE\nExec=java -cp ${HOME}/mikatype MIKATYPE\nType=Application" > ${HOME}/.local/share/applications/mikatype.desktop
 
-echo "スクリプト終了"
+echo -e "\e[36mスクリプト終了\e[m"
