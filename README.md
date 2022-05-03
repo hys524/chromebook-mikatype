@@ -22,12 +22,10 @@ curl -s https://raw.githubusercontent.com/hys524/chromebook-mikatype/main/script
 
 ## 実行結果
 ▼アイコン追加  
-![1](https://user-images.githubusercontent.com/22715799/166203087-786d465b-1e32-4425-8884-a836ec0b3e76.png)  
+![01](https://user-images.githubusercontent.com/22715799/166508152-7c5d5b3f-3397-4f77-807b-38dcdbd547b7.png)  
 ▼MIKATYPE起動  
-![2](https://user-images.githubusercontent.com/22715799/166203103-14936ab7-a3c7-4cbf-8e1b-08f3b2ef0c49.png)  
+![02](https://user-images.githubusercontent.com/22715799/166508164-0e740cbf-fcec-47b2-834b-03a9bcb99768.png)  
 
 
 ## ライセンス
 このスクリプト・リポジトリは [MIT ライセンス](./LICENSE) の下で公開されています
-
-
