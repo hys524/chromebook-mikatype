@@ -20,6 +20,8 @@ echo -e "${HOME}/mikatype/MIKATYPE.class"
 
 echo -e "\e[36m▼アプリアイコンを変換します\e[m"
 convert mikatype.ico mikatype.png
+echo -e "${HOME}/mikatype/mikatype-0.png"
+echo -e "${HOME}/mikatype/mikatype-1.png"
 
 echo -e "\e[36m▼デスクトップファイルを作成します\e[m"
 mkdir -pv ${HOME}/.local/share/applications/
