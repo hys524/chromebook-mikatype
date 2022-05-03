@@ -16,6 +16,7 @@ unzip mikatype_java.zip
 
 echo -e "\e[36m▼MIKATYPE.javaをコンパイルします\e[m"
 javac MIKATYPE.java
+echo -e "${HOME}/mikatype/MIKATYPE.class"
 
 echo -e "\e[36m▼アプリアイコンを変換します\e[m"
 convert mikatype.ico mikatype.png
