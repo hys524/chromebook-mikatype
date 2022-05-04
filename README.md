@@ -1,5 +1,5 @@
 # chromebook-mikatype
-ChromebookのLinux開発環境に美佳のタイプトレーナ（MIKATYPE）をインストールする非公式のスクリプトです。
+ChromebookのLinux開発環境に美佳のタイプトレーナ（ミカタイプ／MIKATYPE）をインストールする非公式のスクリプトです。
 
 
 ## Chromebook用MIKATYPE
